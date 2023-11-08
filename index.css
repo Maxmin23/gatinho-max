@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: rgb(77, 177, 77);
+}
+
+header {
+    background:rgb(90, 161, 90) ;
+    text-align: center;
+    padding: 30px;
+}
+
+
+div h1 {
+    margin-bottom: 20px;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    font-weight: normal;
+    text-shadow: 2px 2px 0px rgb(187, 182, 182);
+    margin: 0px 100px 0px 100px;
+}
+
+
+    main {
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        min-width: 100px;
+        max-width: 800px;
+        margin: auto;
+        margin-bottom: 30px;
+        padding: 20px;
+        box-shadow: 0px 0px 10px rgb(0, 0, 0);
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        background-color:rgb(90, 153, 90);
+        width: 2000px;
+      
+        
+}
+
+hr {
+    background-color: rgb(30, 71, 30);
+}
+
+img#gatos {
+    height: 200px;
+    width: 200px;
+   border: 2px solid black;
+   border-radius: 10px;
+   margin: 20px;
+
+}
+
+
+
